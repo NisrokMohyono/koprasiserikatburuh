@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "nisrokmohyono4646"
+  },
+  "targets": {
+    "nisrokmohyono4646": {
+      "hosting": {
+        "ksb": [
+          "koprasiserikatburuh"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
